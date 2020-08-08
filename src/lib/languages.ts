@@ -43,4 +43,6 @@ export const DEFAULT_LANGUAGES = [
   // mixed
   'vue',
   'svelte',
+  // ml-like
+  'elm'
 ]
